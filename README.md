@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on environmental data analysis using in R
 - 🌱 I’m also learning Python
-- 👯 I’m looking to collaborate on projects involving hydro-meterology and climate change.
+- 👯 I’m looking to collaborate on projects involving hydrology, meterology and climate change.
 - 📫 How to reach me: smrita.acharya@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love being in nature and hike. I enjoy reading non-fictions and write poetry or sketch for fun. 
