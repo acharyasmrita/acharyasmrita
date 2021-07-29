@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+🔭 I’m currently working on data analysis using in R
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on projects involving hydro-meterology and climate change.
+- 📫 How to reach me: smrita.acharya@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love being in nature and hike. I enjoy reading non-fictions and write poetry or sketch for fun. 
+-  
 <!--
 **acharyasmrita/acharyasmrita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
