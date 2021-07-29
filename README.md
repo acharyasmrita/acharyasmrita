@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on environmental data analysis using in R
-- 🌱 I’m currently also learning Python
+- 🌱 I’m also learning Python
 - 👯 I’m looking to collaborate on projects involving hydro-meterology and climate change.
 - 📫 How to reach me: smrita.acharya@gmail.com
 - 😄 Pronouns: She/Her
