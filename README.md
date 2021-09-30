@@ -3,8 +3,6 @@
 - 👯 I’m looking to collaborate on projects involving isotopes, catchment hydrology and hydrometerology.
 - 📫 How to reach me: smrita.acharya@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love being in nature and hiking. I enjoy reading non-fictions and write poetry or sketch for fun. 
-<!--
 **acharyasmrita/acharyasmrita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
